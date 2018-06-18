@@ -1,3 +1,4 @@
+#include <ostream>
 #include "string.h"
 
 mcpe::string* mcpe::string::empty;
